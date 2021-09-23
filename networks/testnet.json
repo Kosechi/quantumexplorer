@@ -1,19 +1,20 @@
 {
-  "title": "TARK Explorer",
-  "server": "http://127.0.0.1:4003/api",
+  "title": "quantum Testnet Explorer",
+  "server": "http://137.184.135.94:4003/api/v2",
   "alias": "Testnet local",
-  "activeDelegates": 51,
-  "rewardOffset": 75600,
+  "activeDelegates": "33",
+  "rewardOffset": "1024",
   "currencies": [],
   "knownWallets": {},
   "defaults": {
-    "token": "TARK",
-    "symbol": "TѦ",
+    "token": "QTM",
+    "symbol": "ℾ",
     "currency": null,
     "priceChartOptions": {
       "enabled": false,
       "period": "day",
       "type": "price"
-    }
+    },
+    "priceChart": false
   }
 }
