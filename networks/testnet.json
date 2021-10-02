@@ -1,7 +1,7 @@
 {
-  "title": "quantum Testnet Explorer",
+  "title": "Quantum Mainnet Explorer",
   "server": "http://137.184.135.94:4003/api/v2",
-  "alias": "Testnet local",
+  "alias": "Mainnet Explorer",
   "activeDelegates": "33",
   "rewardOffset": "1024",
   "currencies": [],
